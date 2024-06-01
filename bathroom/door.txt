@@ -1,0 +1,4 @@
+vidrio biselado
+color blanco
+material aluminio
+
